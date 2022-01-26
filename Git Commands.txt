@@ -1,0 +1,7 @@
+Git init
+Git status
+Git add .
+Git commit -m "My first commit"
+Git branch -m main
+Git remote add origin url
+Git push -u origin main
